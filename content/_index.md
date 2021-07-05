@@ -6,14 +6,10 @@ sections:
     template: section_hero
     title: 'Hey there, I''m Ahmed.'
     section_id: hero
-    content: >+
+    content: >
       Welcome to my personal site. A place where I create, showcase and put my
-      ideas
-
-
+      ideas                                                                                                                         
       into action as a Scientist and Creator.
-
-
     actions:
       - type: action
         template: action

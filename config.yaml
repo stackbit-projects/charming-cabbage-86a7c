@@ -6,7 +6,6 @@ params:
   header:
     type: header
     template: header
-    title: Exto
     has_nav: true
     nav_links:
       - type: action

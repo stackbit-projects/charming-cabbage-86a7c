@@ -33,7 +33,7 @@ params:
         label: Contact
         url: /contact/
         style: link
-    logo_img: '/images/Untitled-6 [Recovered]1.png'
+    logo_img: '/images/Untitled-6 [Recovered]6.png'
   footer:
     type: footer
     template: footer

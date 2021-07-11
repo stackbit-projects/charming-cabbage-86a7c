@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 - Lorem ipsum
 - dolor sit amet
 
-| Tables        | Are           | Cool  |
+| Tables        | Are           | 
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |

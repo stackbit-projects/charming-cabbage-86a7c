@@ -26,5 +26,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 المعدل الذي تتغير به كمية تحرك جسم يساوي القوة المؤثرة
 عليه </div> |
 | col 2 is      | centered      |  
-| zebra stripes trst hest best rest Isaac Newton originally formulated his second law of motion by stating that the rate at which the momentum of an object changes is equal
-to the force on the object. | are neat      |
+| zebra stripes trst hest best rest Isaac Newton originally formulated his second law of motion by stating that the rate at which the momentum of an object changes is equal to the force on the object. | are neat      |

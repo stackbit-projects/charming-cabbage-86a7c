@@ -22,6 +22,8 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 
 | Tables        | الحب           | محب  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| col 3 is      | right-aligned | وضع إسحاق نيوتن قانونه الثاني للحركة الذي ينص علي أن
+المعدل الذي تتغير به كمية تحرك جسم يساوي القوة المؤثرة
+عليه |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |

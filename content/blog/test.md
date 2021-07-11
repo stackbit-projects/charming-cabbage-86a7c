@@ -26,4 +26,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 المعدل الذي تتغير به كمية تحرك جسم يساوي القوة المؤثرة
 عليه </div> |
 | col 2 is      | centered      |  
-| zebra stripes | are neat      |
+| zebra stripes trst hest best rest | are neat      |

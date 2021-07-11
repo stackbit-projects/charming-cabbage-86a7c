@@ -24,6 +24,6 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 | ------------- |:-------------:|
 | col 3 is      | <div dir="rtl"> وضع إسحاق نيوتن قانونه الثاني للحركة الذي ينص علي أن
 المعدل الذي تتغير به كمية تحرك جسم يساوي القوة المؤثرة
-عليه  |
+عليه </div> |
 | col 2 is      | centered      |  
 | zebra stripes | are neat      |
